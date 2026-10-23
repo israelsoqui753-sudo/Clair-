@@ -1,2 +1,2 @@
-# Clair-
+# Clair
 Application de suivi financier 
